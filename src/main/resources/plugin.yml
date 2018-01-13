@@ -1,0 +1,6 @@
+name: NESurvival
+main: net.nighthawkempires.survival.NESurvival
+version: 0.12_a
+depend: [NECore]
+description: Survival plugin for Nighthawk Empires
+authors: [NoneVale_]

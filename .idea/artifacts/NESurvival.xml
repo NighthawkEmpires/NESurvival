@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NESurvival">
+    <output-path>$PROJECT_DIR$/../../plugins</output-path>
+    <root id="archive" name="NESurvival.jar">
+      <element id="module-output" name="NESurvival" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
